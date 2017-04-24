@@ -1,6 +1,6 @@
 {
   "name": "react-resizable-box-mfma",
-  "version": "0.0.1",
+  "version": "5.0.2",
   "description": "",
   "main": "lib/index.js",
   "scripts": {
@@ -23,7 +23,7 @@
     "resizable",
     "component"
   ],
-  "author": "bokuweb",
+  "author": "mfma",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/mfma/react-resizable-box/issues"
