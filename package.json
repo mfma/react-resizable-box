@@ -1,7 +1,7 @@
 {
   "name": "react-resizable-box-mfma",
-  "version": "5.0.2",
-  "description": "",
+  "version": "2.0.3",
+  "description": "Resizable component for React.",
   "main": "lib/index.js",
   "scripts": {
     "flow:gen": "flow gen-flow-files src/index.js --out-dir lib && flow gen-flow-files src/resizer.js --out-dir lib",
@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/mfma/react-resizable-box.git"
+    "url": "git+https://github.com/mfma/react-resizable-box.git"
   },
   "keywords": [
     "react",
@@ -83,5 +83,9 @@
   ],
   "dependencies": {
     "lodash.isequal": "^4.5.0"
+  },
+  "directories": {
+    "doc": "docs",
+    "test": "test"
   }
 }
